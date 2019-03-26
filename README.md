@@ -1,4 +1,4 @@
-# AzerothJS
+# AzerothJS by Huytd
 
 AzerothJS is an open source blog engine running on static file servers such as Github Pages or any web hosting. 
 
